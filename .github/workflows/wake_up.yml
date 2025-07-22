@@ -1,0 +1,20 @@
+name: Wake Up Script
+
+on:
+  schedule:
+    - cron: '45 21 * * *'  # 3:15 AM IST (UTC+5:30)
+  workflow_dispatch:  # allows manual run too
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set secret
+        run: echo "DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }}" >> $GITHUB_ENV
+
+      - name: Run script
+        run: python wake_up_checker.py

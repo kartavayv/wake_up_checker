@@ -1,0 +1,52 @@
+✅ Task ran at: 2025-07-22 10:38:32.048033
+👀 Script is waiting for 3:05 AM...
+✅ Task ran at: 2025-07-22 10:39:24.156506
+👀 Script is waiting for 3:05 AM...
+✅ Task started. | 2025-07-22 10:54:56.978649
+👀 Waiting until deadline... | 2025-07-22 10:54:56.979683
+⏰ Deadline reached. Checking for wake-up confirmation... | 2025-07-22 10:54:56.981099A
+💀 Wake-up NOT confirmed. Tweeting shame messages... | 2025-07-22 10:54:56.981099
+✅ Task started. | 2025-07-22 10:54:59.684176
+👀 Waiting until deadline... | 2025-07-22 10:54:59.685008
+⏰ Deadline reached. Checking for wake-up confirmation... | 2025-07-22 10:54:59.685008
+💀 Wake-up NOT confirmed. Tweeting shame messages... | 2025-07-22 10:54:59.686129
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:54:59.994967
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:00.809559
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:01.074644
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:01.748319
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:01.932883
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:02.797299
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:02.832396
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:04.241071
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:04.263698
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:05.624914
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:05.715702
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:06.589274
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:06.888811
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:08.583601
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:09.184634
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:12.455995
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:13.225647
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:14.825392
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:15.237161
+❌ Error tweeting: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product | 2025-07-22 10:55:17.115393

@@ -22,7 +22,7 @@ shame_messages = [
 async def on_ready():
     print(f"Logged in as {client.user}")
     
-    file_path = "C:\\Users\\HP\\Desktop\\YOUR STUFF\\PROGRAMMING\\PROJECTS\\WAKE ME UP\\wake_up.txt"
+    file_path = "wake_up.txt"
     now = datetime.now()
     deadline_hour = 10
     deadline_minute = 30

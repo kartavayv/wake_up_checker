@@ -3,7 +3,7 @@ import asyncio
 import os
 from datetime import datetime
 
-TOKEN = "MTM5NzI1ODQzMjI4OTE4MTgxOA.GStd-z.0XwmdVd9kKIzJ5zGEa46bxxeaHRWjtlFZIRD_I"
+TOKEN = os.getenv("DISCORD_TOKEN")
 CHANNEL_ID = 1397256653396775156  
 
 intents = discord.Intents.default()

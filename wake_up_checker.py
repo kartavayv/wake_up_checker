@@ -24,7 +24,7 @@ async def on_ready():
     
     file_path = "wake_up.txt"
     now = datetime.now()
-    deadline_hour = 10
+    deadline_hour = 3
     deadline_minute = 30
 
     if now.hour > deadline_hour or (now.hour == deadline_hour and now.minute >= deadline_minute):
